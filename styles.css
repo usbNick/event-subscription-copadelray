@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+    background-image: url("/img/copadelrey-bg.jpg");
+/* background-position: 50%; */
+background-size: cover;
+background-repeat: no-repeat;
+}
